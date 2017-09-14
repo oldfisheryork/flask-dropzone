@@ -1,6 +1,4 @@
-## InsideSherpa Engineering Challenge
-
-**Flask File Drag and Drop Upload with Dropzone.js**
+## Flask File Drag and Drop Upload with Dropzone.js
 
 First
 ```shell
